@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834884937335",
+    "project_id": "stocklocator-74e36",
+    "storage_bucket": "stocklocator-74e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834884937335:android:b651722b37db00910a0872",
+        "android_client_info": {
+          "package_name": "com.example.stocklocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834884937335-gcf9ccoigtjahra5cp6jhpkg7qu6itl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfpK6ZRhnHcx2lpMk60GDLqySvF7gZSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834884937335-gcf9ccoigtjahra5cp6jhpkg7qu6itl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
